@@ -1,0 +1,15 @@
+contract_id,contract_number,supplier_id,supplier_name,title,type,state,start_date,end_date,annual_value_inr,auto_renew,renewal_notice_days,days_to_expiry,renewal_window,sla_on_time_target_pct,sla_max_delay_days,sla_max_defect_rate_pct,sla_response_hours,sla_penalty_per_breach_inr
+6ae1bc09a1b2c3d4e5000002,CT-2024-100,6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,Raw materials supply agreement,Supply,Active,2025-05-26,2027-05-26,21277000,0,60,210,Beyond 90 days,95,3,2,48,10000
+6ae1bc09a1b2c3d4e500004e,CT-2025-107,6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,Packaging supply agreement,Supply,Active,2024-12-08,2026-12-08,5636000,1,45,41,31-60 days,95,3,2,48,10000
+6ae1bc09a1b2c3d4e50000b3,CT-2026-114,6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,Logistics supply agreement,Service,Active,2026-01-02,2027-01-02,3558000,1,90,66,61-90 days,95,1,3,48,50000
+6ae1bc09a1b2c3d4e5000109,CT-2024-121,6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,IT services supply agreement,Licensing,Active,2026-11-12,2027-11-12,10794000,0,45,380,Beyond 90 days,90,3,2,24,50000
+6ae1bc09a1b2c3d4e5000125,CT-2025-128,6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,Chemicals supply agreement,Supply,Active,2024-11-15,2026-11-15,2802000,0,90,18,0-30 days,95,4,2.5,24,10000
+6ae1bc09a1b2c3d4e5000175,CT-2026-135,6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,Electronics supply agreement,Supply,Active,2024-08-24,2027-08-24,8046000,1,60,300,Beyond 90 days,95,3,2,24,15000
+6ae1bc09a1b2c3d4e50001b7,CT-2024-142,6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,Facility services supply agreement,Service,Active,2025-10-16,2026-10-16,2137000,1,30,-12,Lapsed,95,3,1.5,24,5000
+6ae1bc09a1b2c3d4e50001fd,CT-2025-149,6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,Raw materials supply agreement,Supply,Active,2027-01-21,2028-01-21,1818000,0,30,450,Beyond 90 days,95,2,2.5,4,15000
+6ae1bc09a1b2c3d4e5000240,CT-2026-156,6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,Logistics supply agreement,Service,Active,2024-01-25,2027-01-24,3581000,1,30,88,61-90 days,97,1,2,24,50000
+6ae1bc09a1b2c3d4e5000286,CT-2024-163,6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,Packaging supply agreement,Supply,Active,2025-04-01,2028-03-31,6872000,0,60,520,Beyond 90 days,95,5,2,24,15000
+6ae1bc09a1b2c3d4e50002bf,CT-2025-170,6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,Maintenance supply agreement,Service,Active,2025-03-07,2027-03-07,2888000,1,30,130,Beyond 90 days,92,5,2.5,24,25000
+6ae1bc09a1b2c3d4e50002f0,CT-2026-177,6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,Electronics supply agreement,Supply,Active,2026-06-25,2027-06-25,6049000,0,90,240,Beyond 90 days,90,4,2,24,10000
+6ae1bc09a1b2c3d4e500033d,CT-2024-184,6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,Chemicals supply agreement,Supply,Active,2025-06-20,2028-06-19,4887000,0,45,600,Beyond 90 days,95,3,1.5,4,50000
+6ae1bc09a1b2c3d4e5000370,CT-2025-191,6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,IT services supply agreement,Licensing,Active,2025-09-28,2028-09-27,6208000,0,45,700,Beyond 90 days,95,5,2.5,24,15000

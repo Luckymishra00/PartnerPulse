@@ -1,0 +1,57 @@
+supplier_id,supplier_name,period,delivery_score,quality_score,pricing_score,communication_score,compliance_score,overall_score,recommendation,evaluated_on
+6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,2026-Q3,5,4.5,4.5,4.5,3.5,4.55,Expand,2026-10-05
+6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,2026-Q2,5,4,4.5,3.5,4,4.3,Expand,2026-07-05
+6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,2026-Q1,4.5,4.5,3.5,3.5,4.5,4.2,Expand,2026-04-05
+6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,2025-Q4,4.5,4.5,4.5,4.5,3.5,4.4,Expand,2026-01-05
+6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,2026-Q3,5,4.5,4.5,3,5,4.47,Expand,2026-10-05
+6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,2026-Q2,4.5,4.5,3.5,3.5,4,4.15,Maintain,2026-07-05
+6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,2026-Q1,4.5,3.5,3,3,4,3.7,Maintain,2026-04-05
+6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,2025-Q4,4,4,4.5,3,4.5,3.97,Maintain,2026-01-05
+6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,2026-Q3,3.5,4,3,3,3,3.45,Maintain,2026-10-05
+6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,2026-Q2,4,5,3,3,4,4,Maintain,2026-07-05
+6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,2026-Q1,4.5,5,4,3.5,4.5,4.43,Expand,2026-04-05
+6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,2025-Q4,4,4,4.5,4.5,3.5,4.1,Maintain,2026-01-05
+6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,2026-Q3,5,4.5,3.5,4,3.5,4.32,Expand,2026-10-05
+6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,2026-Q2,5,4.5,4,4.5,3.5,4.47,Expand,2026-07-05
+6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,2026-Q1,5,4.5,4,4,3.5,4.4,Expand,2026-04-05
+6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,2025-Q4,4.5,5,4,4.5,3.5,4.47,Expand,2026-01-05
+6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,2026-Q3,4,3.5,3,4,4,3.7,Maintain,2026-10-05
+6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,2026-Q2,5,3,4,3,4.5,3.9,Maintain,2026-07-05
+6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,2026-Q1,5,3,3.5,3.5,4,3.85,Maintain,2026-04-05
+6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,2025-Q4,5,3,4,4.5,4,4.08,Maintain,2026-01-05
+6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,2026-Q3,4.5,4,3,3,3,3.75,Maintain,2026-10-05
+6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,2026-Q2,5,3.5,3.5,3.5,5,4.1,Maintain,2026-07-05
+6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,2026-Q1,5,4,4.5,3.5,3.5,4.25,Expand,2026-04-05
+6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,2025-Q4,4,4.5,3,4.5,5,4.18,Maintain,2026-01-05
+6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,2026-Q3,4,3.5,3.5,4,3.5,3.73,Maintain,2026-10-05
+6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,2026-Q2,3.5,4,4.5,4.5,5,4.1,Maintain,2026-07-05
+6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,2026-Q1,3.5,4,4.5,3.5,4.5,3.9,Maintain,2026-04-05
+6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,2025-Q4,3.5,3.5,3.5,4.5,4,3.7,Maintain,2026-01-05
+6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,2026-Q3,4,3.5,3.5,4.5,4.5,3.9,Maintain,2026-10-05
+6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,2026-Q2,4,3.5,4.5,4,5,4.03,Maintain,2026-07-05
+6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,2026-Q1,3.5,4,4.5,3,4,3.78,Maintain,2026-04-05
+6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,2025-Q4,4.5,4,3.5,4.5,4,4.15,Maintain,2026-01-05
+6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,2026-Q3,3.5,4.5,3.5,3.5,4.5,3.9,Maintain,2026-10-05
+6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,2026-Q2,3.5,4,4,4.5,4.5,3.98,Maintain,2026-07-05
+6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,2026-Q1,3.5,4.5,4.5,3.5,4.5,4.05,Maintain,2026-04-05
+6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,2025-Q4,4,4.5,4,3,5,4.1,Maintain,2026-01-05
+6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,2026-Q3,4.5,4.5,3,4.5,3.5,4.17,Maintain,2026-10-05
+6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,2026-Q2,4,4.5,3.5,4,4,4.08,Maintain,2026-07-05
+6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,2026-Q1,4.5,4,4,4.5,4,4.22,Expand,2026-04-05
+6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,2025-Q4,4.5,4,3.5,3,4,3.92,Maintain,2026-01-05
+6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,2026-Q3,4.5,4.5,3.5,4,4,4.22,Expand,2026-10-05
+6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,2026-Q2,4,4,3.5,3.5,4.5,3.9,Maintain,2026-07-05
+6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,2026-Q1,4,4.5,4,4.5,4.5,4.27,Expand,2026-04-05
+6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,2025-Q4,3,4,4,4.5,3.5,3.72,Maintain,2026-01-05
+6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,2026-Q3,4.5,3.5,4,3,3.5,3.8,Maintain,2026-10-05
+6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,2026-Q2,4,3.5,4.5,3.5,4,3.85,Maintain,2026-07-05
+6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,2026-Q1,4,3.5,4,4.5,5,4.03,Maintain,2026-04-05
+6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,2025-Q4,5,3,4.5,4.5,3.5,4.1,Maintain,2026-01-05
+6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,2026-Q3,5,5,4,3,4.5,4.5,Expand,2026-10-05
+6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,2026-Q2,4.5,5,3,3.5,5,4.32,Expand,2026-07-05
+6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,2026-Q1,5,5,3.5,4.5,4,4.6,Expand,2026-04-05
+6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,2025-Q4,5,4.5,4,3.5,3.5,4.32,Expand,2026-01-05
+6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,2026-Q3,4.5,4.5,3.5,3.5,3.5,4.1,Maintain,2026-10-05
+6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,2026-Q2,4.5,5,3.5,4.5,4.5,4.5,Expand,2026-07-05
+6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,2026-Q1,5,4.5,3,3.5,3,4.13,Maintain,2026-04-05
+6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,2025-Q4,5,4.5,3,4.5,3.5,4.32,Expand,2026-01-05

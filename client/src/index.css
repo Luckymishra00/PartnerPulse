@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-paper font-sans text-harbor-800 antialiased;
+    font-feature-settings: 'tnum' 1, 'cv11' 1;
+  }
+  h1, h2, h3 {
+    @apply font-display;
+    font-variation-settings: 'wdth' 88;
+    letter-spacing: -0.01em;
+  }
+  :focus-visible {
+    outline: 2px solid #3355ff;
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+  ::selection {
+    background: #cfd8ff;
+  }
+  input, select, textarea, button {
+    font: inherit;
+  }
+}
+
+@layer components {
+  /* One border radius per job: 3px for data cells and inputs, 10px for panels, pills for status */
+  .panel {
+    @apply rounded-panel border border-line bg-sheet;
+  }
+  .num {
+    @apply font-display;
+    font-variation-settings: 'wdth' 82;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.02em;
+  }
+  .btn {
+    @apply inline-flex h-9 items-center justify-center gap-2 rounded-[3px] px-3.5 text-sm font-semibold transition-colors disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-primary {
+    @apply btn bg-signal text-white hover:bg-signal-dark;
+  }
+  .btn-quiet {
+    @apply btn border border-line2 bg-sheet text-harbor-800 hover:border-harbor-500 hover:bg-white;
+  }
+  .btn-danger {
+    @apply btn border border-bad/40 bg-sheet text-bad-text hover:bg-bad-tint;
+  }
+  .btn-ghost {
+    @apply btn px-2 text-quiet hover:bg-harbor-800/5 hover:text-harbor-800;
+  }
+  .input {
+    @apply h-10 w-full rounded-[3px] border border-line2 bg-white px-3 text-sm text-harbor-800 placeholder:text-quiet/70 transition-colors hover:border-harbor-500 focus:border-signal;
+  }
+  textarea.input {
+    @apply h-auto py-2;
+  }
+  .label {
+    @apply mb-1 block text-[13px] font-semibold text-harbor-700;
+  }
+  .hint {
+    @apply mt-1 text-xs text-quiet;
+  }
+  .th {
+    @apply whitespace-nowrap border-b border-line2 px-4 py-2.5 text-left text-[13px] font-semibold text-quiet;
+  }
+  .td {
+    @apply border-b border-line px-4 py-3 align-middle text-sm;
+  }
+}
+
+/* The Pulse Board trace draws itself once when the page loads */
+.trace-line {
+  stroke-dasharray: var(--len, 400);
+  stroke-dashoffset: var(--len, 400);
+  animation: draw 1.3s cubic-bezier(0.3, 0.6, 0.2, 1) forwards;
+  animation-delay: var(--delay, 0ms);
+}
+@keyframes draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.scroll-thin::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+.scroll-thin::-webkit-scrollbar-thumb {
+  background: #c2ccc8;
+  border-radius: 8px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    animation-delay: 0ms !important;
+    transition-duration: 0.001ms !important;
+  }
+  .trace-line {
+    stroke-dashoffset: 0;
+  }
+}
+
+input[type='range'] {
+  accent-color: #3355ff;
+}

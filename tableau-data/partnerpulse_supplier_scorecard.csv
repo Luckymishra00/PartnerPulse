@@ -1,0 +1,15 @@
+supplier_id,supplier_code,supplier_name,category,tier,performance_score,band,on_time_pct,sla_compliance_pct,defect_rate_pct,avg_delay_days,review_score_pct,spend_12m_inr,open_violations,active_contract_value_inr,next_contract_expiry
+6ae1bc09a1b2c3d4e5000001,SUP-001,Nirmal Steel Works,Raw materials,Strategic,89.5,Excellent,90.2,90.2,1.25,0.25,87.3,113124000,3,21277000,2027-05-26
+6ae1bc09a1b2c3d4e500004d,SUP-002,Punjab Packwell Industries,Packaging,Preferred,78.6,Reliable,89.8,47.5,1.83,0.37,81.5,24496000,8,5636000,2026-12-08
+6ae1bc09a1b2c3d4e50000b2,SUP-003,Satluj Freight Lines,Logistics,Approved,84.4,Reliable,81,82.5,0.69,0.86,79.9,12737000,5,3558000,2027-01-02
+6ae1bc09a1b2c3d4e5000108,SUP-004,Aryavart Data Systems,IT services,Strategic,96.4,Excellent,100,100,0.62,0,88.3,17939000,0,10794000,2027-11-12
+6ae1bc09a1b2c3d4e5000124,SUP-005,Himalaya Chemicals Pvt Ltd,Chemicals,Approved,72.7,Watch,79.5,47.7,2.6,0.64,77.6,24999000,5,2802000,2026-11-15
+6ae1bc09a1b2c3d4e5000174,SUP-006,Kaveri Electronics,Electronics,Preferred,86.1,Reliable,93.3,75.6,1.49,0.22,81.4,46539000,1,8046000,2027-08-24
+6ae1bc09a1b2c3d4e50001b6,SUP-007,BrightEdge Facility Care,Facility services,Approved,67.4,At risk,71.4,28.6,1.89,0.94,77.1,4307000,9,2137000,2026-10-16
+6ae1bc09a1b2c3d4e50001fc,SUP-008,Triveni Fasteners,Raw materials,Approved,80.1,Reliable,86,67.4,2.2,0.4,79.3,14667000,2,1818000,2028-01-21
+6ae1bc09a1b2c3d4e500023f,SUP-009,Deccan Cold Chain,Logistics,Probation,77.2,Watch,68.8,72.9,1.24,1.54,80.2,11172000,3,3581000,2027-01-24
+6ae1bc09a1b2c3d4e5000285,SUP-010,Sundaram Corrugates,Packaging,Preferred,89.8,Excellent,89.1,97.8,1.18,0.24,82,23654000,1,6872000,2028-03-31
+6ae1bc09a1b2c3d4e50002be,SUP-011,Vajra Maintenance Services,Maintenance,Approved,82.6,Reliable,80,82.9,1.53,0.66,80.6,11187000,2,2888000,2027-03-07
+6ae1bc09a1b2c3d4e50002ef,SUP-012,Orbit Semiconductor Distribution,Electronics,Approved,75.6,Watch,92.9,38.1,2.64,0.1,78.9,32205000,5,6049000,2027-06-25
+6ae1bc09a1b2c3d4e500033c,SUP-013,GreenLeaf Industrial Gases,Chemicals,Strategic,94.9,Excellent,97.5,95,0.49,0.03,88.7,17377000,1,4887000,2028-06-19
+6ae1bc09a1b2c3d4e500036f,SUP-014,Zenith Cloud Hosting,IT services,Preferred,93.7,Excellent,100,92,0.9,0,85.3,9131000,0,6208000,2028-09-27

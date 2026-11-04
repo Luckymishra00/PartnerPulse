@@ -1,0 +1,15 @@
+supplier_id,supplier_code,supplier_name,category,tier,status,city,country,onboarded_on
+6ae1bc09a1b2c3d4e5000001,SUP-001,Nirmal Steel Works,Raw materials,Strategic,Active,Ludhiana,India,2023-01-22
+6ae1bc09a1b2c3d4e500004d,SUP-002,Punjab Packwell Industries,Packaging,Preferred,Active,Khanna,India,2024-08-12
+6ae1bc09a1b2c3d4e50000b2,SUP-003,Satluj Freight Lines,Logistics,Approved,Active,Ludhiana,India,2023-02-23
+6ae1bc09a1b2c3d4e5000108,SUP-004,Aryavart Data Systems,IT services,Strategic,Active,Bengaluru,India,2024-07-17
+6ae1bc09a1b2c3d4e5000124,SUP-005,Himalaya Chemicals Pvt Ltd,Chemicals,Approved,Active,Baddi,India,2024-05-22
+6ae1bc09a1b2c3d4e5000174,SUP-006,Kaveri Electronics,Electronics,Preferred,Active,Chennai,India,2023-11-02
+6ae1bc09a1b2c3d4e50001b6,SUP-007,BrightEdge Facility Care,Facility services,Approved,Active,Gurugram,India,2024-06-10
+6ae1bc09a1b2c3d4e50001fc,SUP-008,Triveni Fasteners,Raw materials,Approved,Active,Rajkot,India,2025-06-18
+6ae1bc09a1b2c3d4e500023f,SUP-009,Deccan Cold Chain,Logistics,Probation,Active,Hyderabad,India,2025-02-02
+6ae1bc09a1b2c3d4e5000285,SUP-010,Sundaram Corrugates,Packaging,Preferred,Active,Coimbatore,India,2024-07-25
+6ae1bc09a1b2c3d4e50002be,SUP-011,Vajra Maintenance Services,Maintenance,Approved,Active,Pune,India,2024-03-11
+6ae1bc09a1b2c3d4e50002ef,SUP-012,Orbit Semiconductor Distribution,Electronics,Approved,Active,Noida,India,2025-04-09
+6ae1bc09a1b2c3d4e500033c,SUP-013,GreenLeaf Industrial Gases,Chemicals,Strategic,Active,Vadodara,India,2024-10-18
+6ae1bc09a1b2c3d4e500036f,SUP-014,Zenith Cloud Hosting,IT services,Preferred,Active,Mumbai,India,2024-03-26

@@ -1,0 +1,167 @@
+month,supplier_id,supplier_name,category,orders_placed,deliveries_received,on_time_deliveries,on_time_pct,avg_delay_days,units_received,defective_units,defect_rate_pct,sla_compliance_pct,spend_inr,violations,performance_score
+2025-11-01,6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,Raw materials,1,1,1,100,0,680,9,1.32,100,1312000,0,96.7
+2025-12-01,6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,Raw materials,6,4,4,100,0,6950,52,0.75,100,11230000,0,98.1
+2026-01-01,6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,Raw materials,2,2,2,100,0,2350,68,2.89,50,4447000,1,80.3
+2026-02-01,6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,Raw materials,11,6,4,66.7,0.67,9650,149,1.54,83.3,18616000,1,77.4
+2026-03-01,6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,Raw materials,5,10,9,90,0.1,14439,158,1.09,100,10454000,0,92.9
+2026-04-01,6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,Raw materials,3,4,3,75,0.75,4380,61,1.39,100,5593000,0,85.6
+2026-05-01,6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,Raw materials,6,3,3,100,0,8320,79,0.95,100,10318000,0,97.6
+2026-06-01,6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,Raw materials,3,6,6,100,0,14310,197,1.38,83.3,5410000,1,92.4
+2026-07-01,6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,Raw materials,11,7,7,100,0,15740,225,1.43,85.7,18098000,1,92.9
+2026-08-01,6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,Raw materials,5,9,9,100,0,20480,232,1.13,100,10634000,0,97.2
+2026-09-01,6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,Raw materials,6,5,3,60,1.4,8570,145,1.69,60,9693000,2,68.3
+2026-10-01,6ae1bc09a1b2c3d4e5000001,Nirmal Steel Works,Raw materials,4,4,4,100,0,10100,69,0.68,100,7319000,0,98.3
+2025-11-01,6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,Packaging,8,7,7,100,0,13280,196,1.48,85.7,3343000,1,92.7
+2025-12-01,6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,Packaging,7,4,3,75,1.5,8254,151,1.83,50,2399000,2,72
+2026-01-01,6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,Packaging,8,8,8,100,0,12361,171,1.38,62.5,3590000,3,87.2
+2026-02-01,6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,Packaging,3,7,5,71.4,1.14,13410,270,2.01,42.9,978000,5,68.2
+2026-03-01,6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,Packaging,6,3,3,100,0,5080,111,2.19,33.3,2670000,2,77.9
+2026-04-01,6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,Packaging,0,4,3,75,0.25,8065,170,2.11,50,0,2,71.3
+2026-05-01,6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,Packaging,3,1,1,100,0,1000,64,6.4,0,1176000,1,59
+2026-06-01,6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,Packaging,7,5,4,80,1.2,6510,96,1.47,40,2693000,3,72.6
+2026-07-01,6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,Packaging,5,4,4,100,0,5950,110,1.85,50,2131000,2,82.9
+2026-08-01,6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,Packaging,3,5,5,100,0,8344,105,1.26,40,1438000,3,81.9
+2026-09-01,6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,Packaging,8,9,8,88.9,0.11,17548,362,2.06,33.3,3353000,6,73.3
+2026-10-01,6ae1bc09a1b2c3d4e500004d,Punjab Packwell Industries,Packaging,2,2,2,100,0,4890,109,2.23,0,574000,2,69.4
+2025-11-01,6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,Logistics,6,6,6,100,0,11012,71,0.64,83.3,1369000,1,94.2
+2025-12-01,6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,Logistics,12,10,8,80,0.6,16082,125,0.78,80,2335000,2,84.3
+2026-01-01,6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,Logistics,7,6,4,66.7,0.5,18407,105,0.57,83.3,1061000,1,79.8
+2026-02-01,6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,Logistics,4,7,7,100,0,10313,67,0.65,100,741000,0,98.4
+2026-03-01,6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,Logistics,3,2,2,100,0,6570,60,0.91,100,565000,0,97.7
+2026-04-01,6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,Logistics,1,3,3,100,0,5550,19,0.34,100,289000,0,99.1
+2026-05-01,6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,Logistics,4,0,0,,,0,0,,,611000,0,
+2026-06-01,6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,Logistics,4,5,4,80,1.2,10450,79,0.76,80,852000,1,84.4
+2026-07-01,6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,Logistics,9,6,4,66.7,1.17,12939,82,0.63,83.3,1893000,1,79.7
+2026-08-01,6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,Logistics,4,8,6,75,1.38,12006,103,0.86,75,895000,2,80.7
+2026-09-01,6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,Logistics,8,6,4,66.7,2.5,9443,59,0.62,66.7,1481000,2,75.5
+2026-10-01,6ae1bc09a1b2c3d4e50000b2,Satluj Freight Lines,Logistics,3,4,3,75,1.5,7690,60,0.78,75,566000,2,80.9
+2025-11-01,6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,IT services,2,0,0,,,0,0,,,2139000,0,
+2025-12-01,6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,IT services,2,3,3,100,0,5550,20,0.36,100,2238000,0,99.1
+2026-01-01,6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,IT services,1,0,0,,,0,0,,,647000,0,
+2026-02-01,6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,IT services,0,1,1,100,0,670,4,0.6,100,0,0,98.5
+2026-03-01,6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,IT services,3,1,1,100,0,540,9,1.67,100,1827000,0,95.8
+2026-04-01,6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,IT services,1,2,2,100,0,4690,34,0.72,100,767000,0,98.2
+2026-05-01,6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,IT services,3,1,1,100,0,2230,10,0.45,100,2817000,0,98.9
+2026-06-01,6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,IT services,3,5,5,100,0,11625,92,0.79,100,1427000,0,98
+2026-07-01,6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,IT services,3,3,3,100,0,2980,7,0.23,100,2738000,0,99.4
+2026-08-01,6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,IT services,2,1,1,100,0,1350,5,0.37,100,1811000,0,99.1
+2026-09-01,6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,IT services,1,1,1,100,0,1800,13,0.72,100,457000,0,98.2
+2026-10-01,6ae1bc09a1b2c3d4e5000108,Aryavart Data Systems,IT services,1,2,2,100,0,6410,41,0.64,100,1071000,0,98.4
+2025-11-01,6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,Chemicals,4,2,2,100,0,2570,80,3.11,50,2340000,1,79.7
+2025-12-01,6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,Chemicals,4,6,6,100,0,10158,288,2.84,33.3,1873000,4,76.2
+2026-01-01,6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,Chemicals,8,5,5,100,0,6920,136,1.97,80,3967000,1,90.1
+2026-02-01,6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,Chemicals,6,8,8,100,0,22830,575,2.52,37.5,2701000,5,78.1
+2026-03-01,6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,Chemicals,3,1,0,0,1,2550,59,2.31,100,1538000,0,50.5
+2026-04-01,6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,Chemicals,3,6,5,83.3,0.33,10018,213,2.13,50,1065000,3,74.9
+2026-05-01,6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,Chemicals,1,0,0,,,0,0,,,721000,0,
+2026-06-01,6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,Chemicals,4,3,1,33.3,1,6569,173,2.63,66.7,2472000,1,55.9
+2026-07-01,6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,Chemicals,6,4,3,75,0.25,11730,250,2.13,75,3292000,1,77.5
+2026-08-01,6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,Chemicals,1,5,3,60,1.8,11410,369,3.23,20,784000,5,54.4
+2026-09-01,6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,Chemicals,3,1,1,100,0,3200,79,2.47,100,1854000,0,93.8
+2026-10-01,6ae1bc09a1b2c3d4e5000124,Himalaya Chemicals Pvt Ltd,Chemicals,4,3,1,33.3,4,6060,221,3.65,0,2055000,5,36.7
+2025-11-01,6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,Electronics,6,6,6,100,0,11386,90,0.79,100,6028000,0,98
+2025-12-01,6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,Electronics,2,1,1,100,0,90,2,2.22,0,1001000,1,69.4
+2026-01-01,6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,Electronics,5,3,2,66.7,1.67,4370,73,1.67,66.7,4759000,2,72.9
+2026-02-01,6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,Electronics,2,2,2,100,0,4510,52,1.15,100,1258000,0,97.1
+2026-03-01,6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,Electronics,4,4,4,100,0,7390,177,2.4,50,3747000,2,81.5
+2026-04-01,6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,Electronics,5,5,5,100,0,10233,260,2.54,80,5185000,1,88.6
+2026-05-01,6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,Electronics,3,5,5,100,0,9963,115,1.15,100,3066000,0,97.1
+2026-06-01,6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,Electronics,8,4,4,100,0,9207,163,1.77,75,7539000,1,89.3
+2026-07-01,6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,Electronics,6,5,4,80,0.8,10107,125,1.24,60,6410000,2,78.2
+2026-08-01,6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,Electronics,2,7,7,100,0,12857,154,1.2,71.4,2062000,2,89.9
+2026-09-01,6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,Electronics,2,1,1,100,0,780,12,1.54,100,2589000,0,96.2
+2026-10-01,6ae1bc09a1b2c3d4e5000174,Kaveri Electronics,Electronics,2,2,1,50,0.5,2454,17,0.69,50,2101000,1,63.9
+2025-11-01,6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,Facility services,3,4,3,75,0.25,6190,155,2.5,0,378000,4,57.8
+2025-12-01,6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,Facility services,3,1,1,100,0,2560,21,0.82,100,303000,0,97.9
+2026-01-01,6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,Facility services,0,2,1,50,3.5,3747,48,1.28,50,0,2,62.4
+2026-02-01,6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,Facility services,3,2,1,50,0.5,3896,87,2.23,0,306000,2,47.5
+2026-03-01,6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,Facility services,3,2,1,50,0.5,5154,155,3.01,0,320000,2,45.6
+2026-04-01,6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,Facility services,5,3,1,33.3,3.67,3410,57,1.67,33.3,702000,2,50
+2026-05-01,6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,Facility services,6,7,7,100,0,16130,247,1.53,42.9,732000,4,81.9
+2026-06-01,6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,Facility services,0,2,2,100,0,2352,30,1.28,50,0,1,84.3
+2026-07-01,6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,Facility services,6,4,3,75,0.25,6050,103,1.7,50,583000,2,72.3
+2026-08-01,6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,Facility services,2,3,2,66.7,2.33,5180,110,2.12,0,262000,4,55.1
+2026-09-01,6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,Facility services,3,2,2,100,0,5758,89,1.55,50,405000,1,83.6
+2026-10-01,6ae1bc09a1b2c3d4e50001b6,BrightEdge Facility Care,Facility services,1,3,1,33.3,1.33,6170,156,2.53,0,173000,4,39.5
+2025-11-01,6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,Raw materials,4,3,2,66.7,2,7670,177,2.31,33.3,968000,2,63
+2025-12-01,6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,Raw materials,6,3,2,66.7,1,4630,92,1.99,33.3,2256000,2,63.8
+2026-01-01,6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,Raw materials,3,6,5,83.3,0.17,12982,216,1.66,100,1193000,0,88.5
+2026-02-01,6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,Raw materials,4,4,3,75,0.25,9090,203,2.23,75,1387000,1,77.2
+2026-03-01,6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,Raw materials,2,3,3,100,0,5540,112,2.02,66.7,393000,1,86.6
+2026-04-01,6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,Raw materials,1,0,0,,,0,0,,,154000,0,
+2026-05-01,6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,Raw materials,3,2,2,100,0,4970,137,2.76,50,1126000,1,80.6
+2026-06-01,6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,Raw materials,3,3,2,66.7,0.33,5760,125,2.17,66.7,839000,1,71.7
+2026-07-01,6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,Raw materials,7,6,6,100,0,11570,296,2.56,83.3,2305000,1,89.4
+2026-08-01,6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,Raw materials,5,7,7,100,0,12550,293,2.33,71.4,1442000,2,87
+2026-09-01,6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,Raw materials,5,4,3,75,1.25,7006,114,1.63,50,1254000,2,72.5
+2026-10-01,6ae1bc09a1b2c3d4e50001fc,Triveni Fasteners,Raw materials,3,2,2,100,0,7230,194,2.68,50,1011000,1,80.8
+2025-11-01,6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,Logistics,6,3,3,100,0,7370,116,1.57,66.7,1413000,1,87.7
+2025-12-01,6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,Logistics,5,6,4,66.7,1.67,12954,154,1.19,66.7,1178000,2,74.1
+2026-01-01,6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,Logistics,0,2,1,50,4,3530,44,1.25,50,0,1,62.5
+2026-02-01,6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,Logistics,3,2,2,100,0,3278,53,1.62,100,493000,0,96
+2026-03-01,6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,Logistics,8,5,4,80,1.6,7500,69,0.92,80,1605000,1,83.9
+2026-04-01,6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,Logistics,6,6,4,66.7,0.83,11430,175,1.53,83.3,1661000,1,77.4
+2026-05-01,6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,Logistics,8,10,7,70,2.4,26555,262,0.99,70,1720000,3,76.9
+2026-06-01,6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,Logistics,2,3,3,100,0,2520,33,1.31,100,663000,0,96.7
+2026-07-01,6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,Logistics,4,1,1,100,0,3330,51,1.53,100,693000,0,96.2
+2026-08-01,6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,Logistics,1,4,1,25,1.75,7650,134,1.75,50,371000,3,50.3
+2026-09-01,6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,Logistics,5,4,3,75,1.75,10220,108,1.06,75,1090000,1,80.2
+2026-10-01,6ae1bc09a1b2c3d4e500023f,Deccan Cold Chain,Logistics,2,2,0,0,2.5,6360,77,1.21,50,285000,1,40.7
+2025-11-01,6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,Packaging,7,2,1,50,0.5,1060,8,0.75,100,3657000,0,76.2
+2025-12-01,6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,Packaging,1,5,4,80,0.6,14490,191,1.32,100,340000,0,88
+2026-01-01,6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,Packaging,7,5,4,80,0.8,6930,87,1.26,100,3870000,0,88.1
+2026-02-01,6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,Packaging,1,3,3,100,0,6970,88,1.26,100,380000,0,96.8
+2026-03-01,6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,Packaging,2,3,3,100,0,9570,99,1.03,100,992000,0,97.4
+2026-04-01,6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,Packaging,5,1,1,100,0,3970,45,1.13,100,1934000,0,97.2
+2026-05-01,6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,Packaging,2,5,5,100,0,6750,82,1.21,100,1097000,0,97
+2026-06-01,6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,Packaging,4,4,4,100,0,7156,49,0.68,100,1744000,0,98.3
+2026-07-01,6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,Packaging,1,1,1,100,0,510,9,1.76,100,597000,0,95.6
+2026-08-01,6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,Packaging,6,4,4,100,0,4880,62,1.27,75,2921000,1,90.6
+2026-09-01,6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,Packaging,7,6,4,66.7,0.5,11850,148,1.25,100,3160000,0,82.3
+2026-10-01,6ae1bc09a1b2c3d4e5000285,Sundaram Corrugates,Packaging,6,7,7,100,0,11062,137,1.24,100,2962000,0,96.9
+2025-11-01,6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,Maintenance,6,3,3,100,0,9960,123,1.23,100,1567000,0,96.9
+2025-12-01,6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,Maintenance,4,7,5,71.4,0.57,13180,277,2.1,71.4,1366000,2,75.1
+2026-01-01,6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,Maintenance,4,2,1,50,2.5,5110,157,3.07,50,1256000,1,57.9
+2026-02-01,6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,Maintenance,4,6,5,83.3,0.17,11762,184,1.56,83.3,1159000,1,84.6
+2026-03-01,6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,Maintenance,3,2,1,50,2,4580,59,1.29,100,1076000,0,74.9
+2026-04-01,6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,Maintenance,4,4,3,75,2,5130,64,1.25,75,1301000,1,79.7
+2026-05-01,6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,Maintenance,3,4,3,75,0.25,6078,68,1.12,100,914000,0,86.3
+2026-06-01,6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,Maintenance,2,3,3,100,0,7650,80,1.05,66.7,830000,1,89.1
+2026-07-01,6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,Maintenance,2,0,0,,,0,0,,,722000,0,
+2026-08-01,6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,Maintenance,2,4,4,100,0,5750,45,0.78,100,721000,0,98
+2026-10-01,6ae1bc09a1b2c3d4e50002be,Vajra Maintenance Services,Maintenance,1,0,0,,,0,0,,,154000,1,
+2025-11-01,6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,Electronics,3,1,0,0,1,3360,81,2.41,0,2103000,1,25.2
+2025-12-01,6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,Electronics,3,2,2,100,0,5620,94,1.67,50,2003000,1,83.3
+2026-01-01,6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,Electronics,2,3,3,100,0,5480,197,3.59,0,1587000,3,66
+2026-02-01,6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,Electronics,3,4,4,100,0,9350,184,1.97,50,1857000,2,82.6
+2026-03-01,6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,Electronics,2,2,2,100,0,4170,98,2.35,0,1598000,2,69.1
+2026-04-01,6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,Electronics,8,3,3,100,0,6660,122,1.83,66.7,6027000,1,87.1
+2026-05-01,6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,Electronics,4,7,6,85.7,0.29,15406,403,2.62,42.9,2611000,4,72.9
+2026-06-01,6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,Electronics,1,3,2,66.7,0.33,5267,159,3.02,0,514000,3,52.9
+2026-07-01,6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,Electronics,4,3,3,100,0,7788,185,2.38,33.3,2692000,2,77.4
+2026-08-01,6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,Electronics,8,6,6,100,0,9657,151,1.56,83.3,6918000,1,91.9
+2026-09-01,6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,Electronics,4,6,6,100,0,14236,414,2.91,16.7,2858000,5,71.9
+2026-10-01,6ae1bc09a1b2c3d4e50002ef,Orbit Semiconductor Distribution,Electronics,2,2,2,100,0,4660,335,7.19,50,1437000,1,69.5
+2025-11-01,6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,Chemicals,6,4,4,100,0,4300,18,0.42,100,2497000,0,99
+2025-12-01,6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,Chemicals,1,3,3,100,0,6450,59,0.91,100,599000,0,97.7
+2026-01-01,6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,Chemicals,4,2,2,100,0,2020,14,0.69,100,1868000,0,98.3
+2026-02-01,6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,Chemicals,4,3,3,100,0,4968,26,0.52,100,1743000,0,98.7
+2026-03-01,6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,Chemicals,2,5,5,100,0,12220,64,0.52,80,875000,1,93.7
+2026-04-01,6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,Chemicals,4,2,2,100,0,2320,11,0.47,100,1647000,0,98.8
+2026-05-01,6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,Chemicals,4,3,3,100,0,6430,36,0.56,100,1545000,0,98.6
+2026-06-01,6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,Chemicals,2,4,4,100,0,5137,30,0.58,100,1029000,0,98.5
+2026-07-01,6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,Chemicals,3,3,3,100,0,1000,2,0.2,100,841000,0,99.5
+2026-08-01,6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,Chemicals,6,3,3,100,0,6599,18,0.27,100,2403000,0,99.3
+2026-09-01,6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,Chemicals,3,7,7,100,0,11295,37,0.33,85.7,1214000,1,95.6
+2026-10-01,6ae1bc09a1b2c3d4e500033c,GreenLeaf Industrial Gases,Chemicals,2,1,0,0,1,1820,4,0.22,100,1116000,0,55.7
+2025-11-01,6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,IT services,2,1,1,100,0,1740,11,0.63,100,917000,0,98.4
+2025-12-01,6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,IT services,0,1,1,100,0,2450,19,0.78,100,0,0,98.1
+2026-01-01,6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,IT services,5,4,4,100,0,10980,122,1.11,75,1910000,1,91
+2026-02-01,6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,IT services,2,1,1,100,0,2680,29,1.08,100,697000,0,97.3
+2026-03-01,6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,IT services,6,5,5,100,0,6803,84,1.23,80,1849000,1,91.9
+2026-04-01,6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,IT services,3,5,5,100,0,12730,82,0.64,100,771000,0,98.4
+2026-05-01,6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,IT services,1,2,2,100,0,2720,10,0.37,100,503000,0,99.1
+2026-06-01,6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,IT services,2,0,0,,,0,0,,,435000,0,
+2026-07-01,6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,IT services,4,5,5,100,0,10960,98,0.89,100,1567000,0,97.8
+2026-08-01,6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,IT services,0,1,1,100,0,1815,20,1.1,100,0,0,97.2
+2026-10-01,6ae1bc09a1b2c3d4e500036f,Zenith Cloud Hosting,IT services,1,0,0,,,0,0,,,482000,0,
