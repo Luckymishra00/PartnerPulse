@@ -1,11 +1,18 @@
 {
+<<<<<<< HEAD
   "name": "partnerpulse-client",
   "version": "1.0.0",
   "private": true,
+=======
+  "name": "client",
+  "private": true,
+  "version": "0.0.0",
+>>>>>>> 4017971b524365c7b13d61151cdfc0b1e2f0033c
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+<<<<<<< HEAD
     "preview": "vite preview"
   },
   "dependencies": {
@@ -22,5 +29,29 @@
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.14",
     "vite": "^5.4.10"
+=======
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "jspdf": "^4.2.1",
+    "jspdf-autotable": "^5.0.9",
+    "lucide-react": "^1.62.0",
+    "papaparse": "^5.7.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "recharts": "^3.10.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "eslint": "^10.13.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.7",
+    "globals": "^17.13.0",
+    "vite": "^8.3.4"
+>>>>>>> 4017971b524365c7b13d61151cdfc0b1e2f0033c
   }
 }
