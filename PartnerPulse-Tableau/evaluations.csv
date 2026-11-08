@@ -1,0 +1,32 @@
+_id,supplier,evaluationDate,qualityScore,deliveryScore,costScore,communicationScore,comments,overallScore,createdAt,updatedAt,__v
+6add2730a2bf2196de524f43,6add12ff2d9478833319b162,2026-10-25T00:00:00.000Z,5,4,4,5,Good quality products and responsive communication.,90,2026-10-24T21:46:24.801Z,2026-10-24T21:46:24.801Z,0
+6adda67b9ebd475a7ded79ea,6adc87c5c1604b8b87c5f882,2026-10-01T00:00:00.000Z,5,5,4,5,Excellent product quality and timely deliveries.,96,2026-10-25T06:49:31.366Z,2026-10-25T06:49:31.366Z,0
+6adda67b9ebd475a7ded79eb,6adc9a74289ec2ce1807ac1b,2026-10-02T00:00:00.000Z,4,4,5,4,Competitive pricing and reliable service.,84,2026-10-25T06:49:31.377Z,2026-10-25T06:49:31.377Z,0
+6adda67b9ebd475a7ded79ec,6adccea49029f7e004c99a70,2026-10-03T00:00:00.000Z,3,2,4,3,Delivery delays need improvement.,58,2026-10-25T06:49:31.386Z,2026-10-25T06:49:31.386Z,0
+6adda67b9ebd475a7ded79ed,6add12ff2d9478833319b162,2026-10-04T00:00:00.000Z,5,4,4,5,High-quality supplies and good communication.,90,2026-10-25T06:49:31.390Z,2026-10-25T06:49:31.390Z,0
+6adda67b9ebd475a7ded79ee,6adc87c5c1604b8b87c5f882,2026-10-05T00:00:00.000Z,4,3,5,4,"Good value, with occasional delivery delays.",78,2026-10-25T06:49:31.392Z,2026-10-25T06:49:31.392Z,0
+6adda67b9ebd475a7ded79ef,6adc9a74289ec2ce1807ac1b,2026-10-06T00:00:00.000Z,3,4,3,4,Acceptable performance with room for improvement.,70,2026-10-25T06:49:31.395Z,2026-10-25T06:49:31.395Z,0
+6adda67b9ebd475a7ded79f0,6adccea49029f7e004c99a70,2026-10-07T00:00:00.000Z,5,5,5,4,Consistently dependable supplier.,96,2026-10-25T06:49:31.400Z,2026-10-25T06:49:31.400Z,0
+6adda67b9ebd475a7ded79f1,6add12ff2d9478833319b162,2026-10-08T00:00:00.000Z,4,3,4,3,Product quality is good; communication could improve.,70,2026-10-25T06:49:31.404Z,2026-10-25T06:49:31.404Z,0
+6adda67b9ebd475a7ded79f2,6adc87c5c1604b8b87c5f882,2026-10-09T00:00:00.000Z,2,3,4,2,Quality consistency and communication need attention.,54,2026-10-25T06:49:31.406Z,2026-10-25T06:49:31.406Z,0
+6adda67b9ebd475a7ded79f3,6adc9a74289ec2ce1807ac1b,2026-10-10T00:00:00.000Z,4,5,4,5,Responsive supplier with excellent delivery performance.,90,2026-10-25T06:49:31.409Z,2026-10-25T06:49:31.409Z,0
+6adda67b9ebd475a7ded79f4,6adccea49029f7e004c99a70,2026-10-11T00:00:00.000Z,3,3,3,4,Average performance across most evaluation criteria.,64,2026-10-25T06:49:31.412Z,2026-10-25T06:49:31.412Z,0
+6adda67b9ebd475a7ded79f5,6add12ff2d9478833319b162,2026-10-12T00:00:00.000Z,5,4,3,5,Strong quality and communication; review pricing.,86,2026-10-25T06:49:31.416Z,2026-10-25T06:49:31.416Z,0
+6adda67b9ebd475a7ded79f6,6adc87c5c1604b8b87c5f882,2026-10-13T00:00:00.000Z,4,4,4,4,Consistent performance across all categories.,80,2026-10-25T06:49:31.420Z,2026-10-25T06:49:31.420Z,0
+6adda67b9ebd475a7ded79f7,6adc9a74289ec2ce1807ac1b,2026-10-14T00:00:00.000Z,2,2,3,3,Improvement required in quality and delivery.,48,2026-10-25T06:49:31.423Z,2026-10-25T06:49:31.423Z,0
+6adda67b9ebd475a7ded79f8,6adccea49029f7e004c99a70,2026-10-15T00:00:00.000Z,5,4,5,5,Excellent overall performance and competitive costs.,94,2026-10-25T06:49:31.425Z,2026-10-25T06:49:31.425Z,0
+6adda8ec12d6f77b80f9b2e0,6adda706fe4e199a9f75b795,2026-10-25T06:59:56.866Z,4,4,4,5,Sample evaluation for testing supplier performance analytics.,84,2026-10-25T06:59:56.900Z,2026-10-25T06:59:56.900Z,0
+6adda8ec12d6f77b80f9b2e3,6adda706fe4e199a9f75b7a0,2026-10-25T06:59:56.866Z,4,4,4,5,Sample evaluation for testing supplier performance analytics.,84,2026-10-25T06:59:56.917Z,2026-10-25T06:59:56.917Z,0
+6adda8ec12d6f77b80f9b2e6,6adda706fe4e199a9f75b79d,2026-10-25T06:59:56.866Z,4,4,4,5,Sample evaluation for testing supplier performance analytics.,84,2026-10-25T06:59:56.930Z,2026-10-25T06:59:56.930Z,0
+6adda8ec12d6f77b80f9b2e9,6adda706fe4e199a9f75b7a1,2026-10-25T06:59:56.866Z,4,4,4,5,Sample evaluation for testing supplier performance analytics.,84,2026-10-25T06:59:56.944Z,2026-10-25T06:59:56.944Z,0
+6adda8ec12d6f77b80f9b2ec,6adda706fe4e199a9f75b797,2026-10-25T06:59:56.866Z,4,4,4,5,Sample evaluation for testing supplier performance analytics.,84,2026-10-25T06:59:56.954Z,2026-10-25T06:59:56.954Z,0
+6adda8ec12d6f77b80f9b2ef,6adda706fe4e199a9f75b79e,2026-10-25T06:59:56.866Z,4,4,4,5,Sample evaluation for testing supplier performance analytics.,84,2026-10-25T06:59:56.965Z,2026-10-25T06:59:56.965Z,0
+6adda8ec12d6f77b80f9b2f2,6adda706fe4e199a9f75b7a2,2026-10-25T06:59:56.866Z,4,4,4,5,Sample evaluation for testing supplier performance analytics.,84,2026-10-25T06:59:56.976Z,2026-10-25T06:59:56.976Z,0
+6adda8ec12d6f77b80f9b2f5,6adda706fe4e199a9f75b796,2026-10-25T06:59:56.866Z,4,4,4,5,Sample evaluation for testing supplier performance analytics.,84,2026-10-25T06:59:56.986Z,2026-10-25T06:59:56.986Z,0
+6adda8ec12d6f77b80f9b2f8,6adda706fe4e199a9f75b79c,2026-10-25T06:59:56.866Z,4,4,4,5,Sample evaluation for testing supplier performance analytics.,84,2026-10-25T06:59:56.998Z,2026-10-25T06:59:56.998Z,0
+6adda8ed12d6f77b80f9b2fb,6adda706fe4e199a9f75b798,2026-10-25T06:59:56.866Z,4,4,4,5,Sample evaluation for testing supplier performance analytics.,84,2026-10-25T06:59:57.009Z,2026-10-25T06:59:57.009Z,0
+6adda8ed12d6f77b80f9b2fe,6adda706fe4e199a9f75b799,2026-10-25T06:59:56.866Z,4,4,4,5,Sample evaluation for testing supplier performance analytics.,84,2026-10-25T06:59:57.018Z,2026-10-25T06:59:57.018Z,0
+6adda8ed12d6f77b80f9b301,6adda706fe4e199a9f75b79f,2026-10-25T06:59:56.866Z,4,4,4,5,Sample evaluation for testing supplier performance analytics.,84,2026-10-25T06:59:57.057Z,2026-10-25T06:59:57.057Z,0
+6adda8ed12d6f77b80f9b304,6adda706fe4e199a9f75b7a3,2026-10-25T06:59:56.866Z,4,4,4,5,Sample evaluation for testing supplier performance analytics.,84,2026-10-25T06:59:57.066Z,2026-10-25T06:59:57.066Z,0
+6adda8ed12d6f77b80f9b307,6adda706fe4e199a9f75b79a,2026-10-25T06:59:56.866Z,4,4,4,5,Sample evaluation for testing supplier performance analytics.,84,2026-10-25T06:59:57.077Z,2026-10-25T06:59:57.077Z,0
+6adda8ed12d6f77b80f9b30a,6adda706fe4e199a9f75b79b,2026-10-25T06:59:56.866Z,4,4,4,5,Sample evaluation for testing supplier performance analytics.,84,2026-10-25T06:59:57.089Z,2026-10-25T06:59:57.089Z,0
